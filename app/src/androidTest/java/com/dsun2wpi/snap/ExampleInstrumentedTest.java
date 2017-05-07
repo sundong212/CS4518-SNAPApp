@@ -24,3 +24,4 @@ public class ExampleInstrumentedTest {
         assertEquals("com.dsun2wpi.snap", appContext.getPackageName());
     }
 }
+snadkfjhdfjkaslghksjdhgaljk
